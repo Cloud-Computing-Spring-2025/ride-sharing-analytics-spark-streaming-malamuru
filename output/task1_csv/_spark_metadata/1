@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-malamuru/output/task1_csv/part-00000-52fda6fb-51ef-4894-965b-ff262b8b1400-c000.csv","size":125,"isDir":false,"modificationTime":1743550643417,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-malamuru/output/task1_csv/part-00001-f9ca49cd-124f-42f1-ad54-e543e6a68982-c000.csv","size":125,"isDir":false,"modificationTime":1743550643438,"blockReplication":1,"blockSize":33554432,"action":"add"}
